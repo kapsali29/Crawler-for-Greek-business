@@ -29,3 +29,23 @@ The third crawler gets as input the business website and extracts the following 
 2. Business website development quality (Source: Google Insights API)
 3. Total visits/year (Source: StatsShow.com)
 4. Unique visits/year (Source: StatsShow.com)
+
+**Fourth Crawler**
+
+The fourth crawler gets as input the business website and extracts:
+1. Business street address
+2. Business geographical coordinates
+3. Business zip code
+The file *demo_fourth_crawler.ipynb* contains the fourth crawler
+
+**Fifth Crawler**
+
+The fifth crawler, takes as input business website, checks if the following elements are referred on Business websites:
+1. If "Corporate Social responsibility" is referred on business website (0 or 1)
+2. If "exports" is referred on business website (0 or 1)
+3. If "imports" is referred on business website (0 or 1)
+4. If "customer support" is referred on business website (0 or 1)
+5. If "representation" is referred on business website (0 or 1)
+6. If "private facilities" is referred on business websites (0 or 1)
+7. If "awards" is referred in business websites (0 or 1)
+The file *demo_fifth_crawler.ipynb* contains the fifth crawler
