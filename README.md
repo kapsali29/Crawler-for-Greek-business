@@ -12,7 +12,8 @@ The first crawler gets as input the business website and extracts the following 
 7. If the website provides mobile application (0 or 1)
 8. If the website has E-shop (0 or 1)
 
-https://user-images.githubusercontent.com/29201775/31721822-1882895c-b423-11e7-9600-0a0708368a9c.PNG
+![alt text](https://user-images.githubusercontent.com/29201775/31721822-1882895c-b423-11e7-9600-0a0708368a9c.PNG)
+
 
 **Second Crawler**
 
